@@ -8,7 +8,7 @@ Access PodAM
 
 🌐 PodAM Web Application
 
-"Open PodAM" (https://reference-url-citation.invalid/0)
+"Open PodAM" (https://infinite-data-space-xhy8.onrender.com/ui)
 
 From the web application you can:
 
@@ -22,13 +22,13 @@ From the web application you can:
 
 Create an Account
 
-"Create a PodAM account" (https://reference-url-citation.invalid/1)
+"Create a PodAM account" (https://infinite-data-space-xhy8.onrender.com/ui)
 
 Select Create an account from the application and provide the requested account information.
 
 🔐 Sign In
 
-"Sign in to PodAM" (https://reference-url-citation.invalid/2)
+"Sign in to PodAM" (https://infinite-data-space-xhy8.onrender.com/ui)
 
 Existing customers can use the same application to sign in and access their Pod.
 
@@ -87,7 +87,7 @@ The underlying implementation and deeper architecture are proprietary and are no
 
 Public Demo
 
-"Launch PodAM" (https://reference-url-citation.invalid/3)
+"Launch PodAM" (https://infinite-data-space-xhy8.onrender.com/ui)
 
 About Inommarka
 
